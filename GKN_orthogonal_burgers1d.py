@@ -16,9 +16,9 @@ if __name__ == "__main__":
     #
     ########################################################################
 
-    PATH = ""
-    TRAIN_PATH = "/data/migus/mgkn_revamped/burgers_data_R10.mat"
-    TEST_PATH = "/data/migus/mgkn_revamped/burgers_data_R10.mat"
+    PATH = "."
+    TRAIN_PATH = f"{PATH}/data/burgers_data_R10.mat"
+    TEST_PATH = f"{PATH}/data/burgers_data_R10.mat"
 
     r = 16
     s = 2 ** 13 // r
