@@ -4,7 +4,7 @@ This repository contains the code for the paper:
 
 - [Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators](https://openreview.net/forum?id=rx9TVZJax5)
 
-In this work, we build on Fourier Neural Operator (FNO) and numerical schemes to create a novel architecture to tackle multi-scale physical representations.
+In this work, we build upon Multipole Graph Neural Operator (MGNO) and numerical schemes to create novel architectures to tackle multi-scale physical representation problem.
 
 ## Requirements
 
