@@ -16,6 +16,9 @@ In this work, we build on Fourier Neural Operator (FNO) and numerical schemes to
 - MGKN_orthogonal_burgers1d.py is the Multipole Graph Neural Operator (MGKN) file for the 1D Burgers equation.
 - GKN_orthogonal_burgers1d.py is the  Graph Kernel Network (GKN) file for the 1D Burgers equation.
 - MLP_GCN_orthogonal_burgers1d.py is the multilayer perceptron (MLP) and graph convolutional network (GCN) file for the 1D Burgers equation.
+- MGKN_orthogonal_darcy2d.py is the Multipole Graph Neural Operator (MGKN) file for the 2D Darcy flow equation.
+- GKN_orthogonal_darcy2d.py is the  Graph Kernel Network (GKN) file for the 2D Darcy flow equation.
+- MLP_GCN_orthogonal_darcy2d.py is the multilayer perceptron (MLP) and graph convolutional network (GCN) file for the 2D Darcy flow equation.
 - src contains the code for the graph data creation, the different models and some utilities files from the original FNO code.
 
 ## Datasets
