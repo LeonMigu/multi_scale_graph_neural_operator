@@ -40,7 +40,7 @@ python3 MGKN_orthogonal_burgers1d.py
 This code is adapted from [this repository](https://github.com/zongyi-li/graph-pde) by Zongyi Li.
 
 ## References
-Leon Migus, Yuan Yin, Jocelyn Ahmed Mazari, Patrick Gallinari1 Proceedings of Topological, Algebraic, and Geometric Learning Workshops 2022, PMLR 196:332-340, 2022. 
+Leon Migus, Yuan Yin, Jocelyn Ahmed Mazari, Patrick Gallinari Proceedings of Topological, Algebraic, and Geometric Learning Workshops 2022, PMLR 196:332-340, 2022. 
 ```
 
 @InProceedings{pmlr-v196-migus22a,
