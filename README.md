@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper:
 
-- [Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators]([https://openreview.net/forum?id=rx9TVZJax5](https://proceedings.mlr.press/v196/migus22a.html))
+- [Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators](https://proceedings.mlr.press/v196/migus22a.html)
 
 In this work, we build upon Multipole Graph Neural Operator (MGNO) and numerical schemes to create novel architectures to tackle multi-scale physical representation problem.
 
